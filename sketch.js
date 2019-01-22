@@ -133,6 +133,7 @@ function mouseClicked(){
           index++
         }else{
           index = 0;
+          state = 0;
         }
       }
     }
